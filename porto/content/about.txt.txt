@@ -1,0 +1,24 @@
+I'm a passionate full-stack developer with 5+ years of experience crafting digital solutions. Specializing in PHP-based web applications and modern JavaScript frameworks, I bridge the gap between complex technical requirements and user-friendly interfaces.
+
+Technical Expertise:
+- Developed 20+ custom WordPress themes and plugins
+- Built RESTful APIs for mobile applications serving 50k+ users
+- Implemented CI/CD pipelines for automated deployment
+- Optimized web applications achieving 95+ Lighthouse scores
+
+What drives me:
+✓ Solving real-world problems through clean code
+✓ Continuous learning in emerging technologies
+✓ Mentoring junior developers
+✓ Open source contributions
+
+When I'm not coding, you'll find me:
+- 📚 Reading tech blogs and sci-fi novels
+- 🎸 Playing guitar in a local band
+- 🌱 Experimenting with urban gardening
+- ✈️ Planning my next tech conference visit
+
+Current Focus:
+🧠 Exploring AI integration with web applications
+⚡ Optimizing serverless architectures
+🔒 Enhancing web security practices
